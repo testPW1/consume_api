@@ -1,4 +1,4 @@
-![pw1_banner](https://github.com/user-attachments/assets/641e8168-5f9d-4ac4-9ecc-bb32a5a21ed6)
+![pw1](https://github.com/user-attachments/assets/3b864ec0-12e2-44ac-aacf-a095408b62f4)
 # Aula 2
 
 ## Objetivos de Aprendizagem
